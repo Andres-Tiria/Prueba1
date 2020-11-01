@@ -8,5 +8,6 @@
 
 *Ejemplo de letra cursiva con **Markdown***  
 <em>Ejemplo de Letra cursiva con <Strong>HTML</Strong></em> 
+letra normal
 
 * __Entra a mi GitHub dónde esta el proyecto de ABGS ***"Absence and Bad Grades Software"***__ en [ABGS.Direct](https://github.com/Camilo-Tiria/Absence-and-Bad-Grades-Software-ABGS-) :+1:
