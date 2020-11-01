@@ -6,4 +6,4 @@
 2. Sencillo
 3. Eficaz 
 
-- **Entra a mi GitHub dónde esta el proyecto de ABGS ***Absence and Bad Grades Software*** ** en [ABGS](https://github.com/Camilo-Tiria/Absence-and-Bad-Grades-Software-ABGS-)
+* __Entra a mi GitHub dónde esta el proyecto de ABGS ***Absence and Bad Grades Software***__ en [ABGS](https://github.com/Camilo-Tiria/Absence-and-Bad-Grades-Software-ABGS-)
