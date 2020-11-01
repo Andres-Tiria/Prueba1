@@ -1,7 +1,7 @@
-# Tamaño
-## Tamaño
-### Tamaño
-*Cursiva*
-# **Negrita**
+* # Tamaño
+* ## Tamaño
+* ### Tamaño
+* *Cursiva*
+* # **Negrita**
 
 > Hola
